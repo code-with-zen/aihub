@@ -1,9 +1,10 @@
 # AI Hub Navigator 🚀
 [![GitHub license](https://img.shields.io/github/license/yourusername/ai-hub-navigator)](https://github.com/yourusername/ai-hub-navigator/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-hub-navigator)](https://github.com/yourusername/ai-hub-navigator/stargazers)
-网页链接：https://code-with-zen.github.io/aihub/
+
 AI Hub Navigator 是一个简洁美观的AI工具导航网站，收录当前热门的AI应用（如ChatGPT、Midjourney等），帮助用户快速发现和使用优质AI工具。
 
+网页链接：https://code-with-zen.github.io/aihub/
 ## ✨ 功能特性
 
 - 精心筛选的AI工具集合
