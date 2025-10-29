@@ -1,5 +1,5 @@
 # AI Hub Navigator 🚀
-
+网页链接：https://code-with-zen.github.io/aihub/
 [![GitHub license](https://img.shields.io/github/license/yourusername/ai-hub-navigator)](https://github.com/yourusername/ai-hub-navigator/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-hub-navigator)](https://github.com/yourusername/ai-hub-navigator/stargazers)
 
@@ -15,7 +15,7 @@ AI Hub Navigator 是一个简洁美观的AI工具导航网站，收录当前热�
 
 ## 🖥️ 使用截图
 
-![AI Hub Navigator Screenshot](./screenshot.png)
+<img width="1895" height="871" alt="image" src="https://github.com/user-attachments/assets/b909e37d-7cf4-41d2-aaf9-57a587bb88b2" />
 
 ## 🛠️ 技术栈
 
